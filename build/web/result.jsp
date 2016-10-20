@@ -6,6 +6,10 @@
 <title>Restaurant Recommendation JSP View></title>
 <link href="firstcss.css" type="text/css"
 rel="stylesheet" />
+
+<form method = "post" action = "logout">
+    <input type = "submit" value = "Logout"/>
+</form>
 </head>
 
 <body>
